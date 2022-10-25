@@ -1,3 +1,5 @@
+{% include figure.html image="images/blog/ashg2022.png" %}
+
 Looking forward to sharing research findings from Mangul lab with you!
 Members of Mangul Lab at the University of Southern California School of Pharmacy will present at the 2022 American Society of Human Genetics Annual Meeting in LA:
 
